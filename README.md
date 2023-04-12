@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=bootstrap" />
     <img src="https://skillicons.dev/icons?i=cpp" />
-    <img src="https://skillicons.dev/icons?i=c#" />
+    <img src="https://skillicons.dev/icons?i=cs" />
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=dart" />
     <img src="https://skillicons.dev/icons?i=django" />
